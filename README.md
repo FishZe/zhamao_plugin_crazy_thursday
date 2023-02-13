@@ -7,7 +7,7 @@ php > 8.0
 
 ### 安装
 ```
-./zhaomao plugin:install https://github.com/FishZe/zhamao_plugin_crazy_thursday
+./zhamao plugin:install https://github.com/FishZe/zhamao_plugin_crazy_thursday
 ```
 
 ### 使用
